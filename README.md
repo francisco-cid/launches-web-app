@@ -29,7 +29,7 @@ Flask provides the advantage of templating in bulk, the capability of integratin
 ### Front-End
 **Front-end Framework: React is used to build the frontend UI framework for the website.** React provides the developers the advantage of utilizing  modular components to implement across multiple web pages. With React, the static HTML elements, the CSS styling selectors, and additional JavaScript to add functionality are encapsulated by pages and components. This provides and organized structure to develop different features to be implemented. Our development team enjoyed the benefit of being able to work on different features simultaneously without having conflicts with styling. An example of the structure we used is shared below. The two directories of note include the pages folder that hold the web pages for each pillar, and the components folder that includes components that we reused throughout the website. In the future, more components will be created as we add functional aspects to the website.
 
-![Folder Structure](uploads/FolderStructure.JPG)
+![alt text](https://gitlab.com/ShinyGlaceon/cs331e-idb/-/wikis/uploads/FolderStructure.JPG)
 
 
 An example of using react components inside a page is shown below. We import the components into the our JSX file, and include them in out HTML. The Navbar and Footer in this example are other JSX files that have additional HTML. This structure of encapsulated each element in separate files allows a developer to more easily navigate through their code.
@@ -116,7 +116,7 @@ Row 1 under launch_box presents two smaller cards and row 2 presents a bigger ca
 
 
 
-![Fig 1: Bootstrap layout solution](uploads/tech_report_fig1.png)
+![Fig 1: Bootstrap layout solution](https://gitlab.com/ShinyGlaceon/cs331e-idb/-/wikis/uploads/tech_report_fig1.png)
 
 
 We utilize a dependency from Material Design for Bootstrap(React Version) to develop the design for our tables displaying our data. The following code in frontend/pages/Agencies/Agencies.js is an example of installing a sortable table of a pillar's model page. In this phase, data is hardcoded into a dictionary with two lists of dictionaries: columns and rows.
@@ -172,7 +172,7 @@ The hyperlink cannot be sorted. In order to circumvent this issue, we added a li
 
 Lastly, the data is used for an MDBDataTable to achieve a sortable feature, and the table installed is presented as shown below. Columns can be sorted when the user clicks the header, and links to other pillars can be activated when the blue react icon is clicked.
 
-![sortable_table](uploads/tech_report_fig2.png)
+![sortable_table](https://gitlab.com/ShinyGlaceon/cs331e-idb/-/wikis/uploads/tech_report_fig2.png)
 
 
 # Hosting
@@ -237,7 +237,7 @@ entry, it describes the agency that provided launch service to each launch event
 attributes: launch_id, launch_name, agency_id, and agency_name.
 
 ### Modeling the tables
-![Screen_Shot_2021-04-03_at_6.33.31_PM](uploads/0b74ca82b06e03dfd180f3d4d6b23cf3/Screen_Shot_2021-04-03_at_6.33.31_PM.png)The six tables are modeled in backend/model.py as objects via _class_ statements. A demonstration is presented below
+![Screen_Shot_2021-04-03_at_6.33.31_PM](https://gitlab.com/ShinyGlaceon/cs331e-idb/-/wikis/uploads/0b74ca82b06e03dfd180f3d4d6b23cf3/Screen_Shot_2021-04-03_at_6.33.31_PM.png)The six tables are modeled in backend/model.py as objects via _class_ statements. A demonstration is presented below
 using the launch table as an example.
 
     class launches(db.Model):
@@ -695,7 +695,7 @@ separate line. This is very similar to how the pillar instance pages are populat
 This TestResults page is linked from the About page so that when a user clicks on "Run Unit Tests", it is displayed. 
 The final result looks as follows: 
 
-![Unit Test Results](uploads/TestResults.png)
+![Unit Test Results](https://gitlab.com/ShinyGlaceon/cs331e-idb/-/wikis/uploads/TestResults.png)
 
 
 
@@ -773,7 +773,7 @@ The longitude and latitude of each launch is obtained from the database of launc
 
 When the longitude and latitude are sent to **MyMapComponent**, the coordinates are marked on Google maps.
 
-![Marked Map](uploads/mapExample.PNG)
+![Marked Map](https://gitlab.com/ShinyGlaceon/cs331e-idb/-/wikis/uploads/TestResults.png)
 
 
 
@@ -819,21 +819,4 @@ Sample use of the footer component in a JavaScript file
         function LaunchersPage() {
             return <Footer/>
         }
-
-### Positioning
-
-For the footer to position properly, there should be enough content on the web page so that the footer does not appear at an awkward location. This is ideal compared to setting the position as "relative" as it can intefere with content such as the bottom of a data table, and block navigation between its pages. A simple yet elegant way to incorporate content into a web page is to insert a background picture header below the navigation bar through CSS.
-
-    .header1 {
-        padding: 10vw;
-        margin-bottom: 1vw;
-        background-image: url("../../images/pexels-pixabay-39896.jpg");
-        background-size: 100%;
-    }
-
-#### Before
-![Bad Content](uploads/contentFillingB.PNG)
-
-#### After
-![Good Content](uploads/contentFilling.PNG)
 
