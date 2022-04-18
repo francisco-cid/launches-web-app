@@ -1,0 +1,1182 @@
+commit 6b5ec57f3408a9c36defed83a2c888048164541f
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Sat Apr 3 19:19:41 2021 -0500
+
+    DONE
+
+commit afbc1a30f320641ba2dca3a7171d6a8df7ae78c2
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Sat Apr 3 17:30:52 2021 -0500
+
+    Update agency page
+
+commit 4a499751e1b415de3b216558a48fe461963b118e
+Merge: adfeca0 0cd1e07
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 22:13:54 2021 -0500
+
+    merged fc_dev into master
+
+commit 0cd1e07afe2b2fb7a17490007598026dd2d49a9d
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 21:54:56 2021 -0500
+
+    fixed requirements routing in .gitlab-ci
+
+commit adfeca0ef1312a483c5e7b95d7d1d639729a3745
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Apr 2 21:50:56 2021 -0500
+
+    add pillar name links
+
+commit 3099246d574e7db2fe897e024f5b985f12046c86
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 21:45:42 2021 -0500
+
+    added unit test screenshot, responsibilities, data scraping description to About page
+
+commit 82addfb1cf7bb3d0d3acfebaf6a1a88a8ba8387d
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Fri Apr 2 21:20:23 2021 -0500
+
+    Updated Agency page and main.py
+
+commit 16815c7f4c04973792335d01f805f20d56eb251f
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 21:10:02 2021 -0500
+
+    Updated pep8
+
+commit b5e26ed7a8bf88826802f44b4b637c6164a4bb36
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 21:04:44 2021 -0500
+
+    moved requirements.txt into master
+
+commit ffb3e7d763e366d65c0204e21d46dfe236a06754
+Author: Adnan Y Desai <adnandesai@utexas.edu>
+Date:   Sat Apr 3 01:57:59 2021 +0000
+
+    Update main.py
+
+commit 3a4585db39c5ad7119b6f7d3425e1e6d0145bb3e
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Sat Apr 3 01:56:41 2021 +0000
+
+    Update Agency.js
+
+commit 06241b50981387cee8fa6843f8bd248580ab9063
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 17:43:47 2021 -0500
+
+    deactivated 'import htmltestrunner' under test.py
+
+commit 3dae35ee1960d9fb8d48b087c1de19cb54cd6c26
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 17:37:26 2021 -0500
+
+    got rid of HTMLRunner stuff
+
+commit 800fda4c1b0d5aae659825b729a57e7bf401d730
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 17:29:50 2021 -0500
+
+    updated main.py to circumvent create_db
+
+commit 1bc9ac7249b525e2a6b1fec5c196741da0ab757e
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 16:22:05 2021 -0500
+
+    updated git-ci
+
+commit b0c41e2beaed270c8d2d643a2a6f15d10001db1b
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 15:54:08 2021 -0500
+
+    fixed python version in deploy.sh
+
+commit c516808e041455e094aee4cdbd02e6e3ee96e8be
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 15:50:19 2021 -0500
+
+    fixed python version in deploy.sh
+
+commit 155ed6909c38f9f3b28bacaf473db152529807e6
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 15:45:26 2021 -0500
+
+    fixed routing in deploy.sh
+
+commit d9d83d5d9fc460b6faa556279c2794f752b20a32
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 15:41:38 2021 -0500
+
+    solved 1872 mystery
+
+commit cec9f0c958410a0b26e9c71f7697ae0717a0020c
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 15:38:28 2021 -0500
+
+    installed experimental shell commands
+
+commit f3e7bcd8b7ecf0a71f7e9e920b3f984082674e51
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Apr 2 15:37:09 2021 -0500
+
+    test gcp db
+    solved 1872 mystery
+
+commit 866548b94627e015cc4cb59780c45059f1943231
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 15:28:49 2021 -0500
+
+    HTML unit test report is rendered as flask template and can be opened in About page
+
+commit 3b0c002ee02f22e49203b838fa0389643fddcd8b
+Merge: 07ea79c 95c9bd1
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Apr 2 14:29:18 2021 -0500
+
+    add default images
+
+commit 95c9bd16f074436b8f5faf8bf2036a4aa4296be2
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Apr 2 14:21:52 2021 -0500
+
+    Add default images
+
+commit 07ea79c31555a0556c108d1e3fd17303b58d8d70
+Merge: d479c06 3f7be9c
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Fri Apr 2 13:40:32 2021 -0500
+
+    Merge branch 'master' into MH-dev
+
+commit d479c06a6af8652153a5ae551d0bff6a1ade9b8e
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Fri Apr 2 13:36:01 2021 -0500
+
+    Agency design, spacecraft dynamic, spacecraft image size fixed
+
+commit 4c9edbe1a81c10406ec42d86b4978551033745dc
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 11:27:23 2021 -0500
+
+    updated unit test results image
+
+commit 6efc8a8f9e93ed1713287fdfe903216e0ab5c5b6
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 11:17:36 2021 -0500
+
+    refactored to only show screenshot of unit test results in about page, still needs debugging
+
+commit 9068f05e4c1b6eb8048bd02f8d231ab25b0509c8
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 09:53:19 2021 -0500
+
+    shrunk francisco-profile.png for faster loading in About page
+
+commit 7e3f9b7675639b7c6bab931e7b8b130e66cccc06
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Apr 2 00:52:20 2021 -0500
+
+    implemented ugly way to show unittest results in about page
+
+commit b30034387d305937843f1041168a401f739df97c
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Fri Apr 2 00:04:55 2021 -0500
+
+    figure out how to run script in react
+
+commit 6b966df10cb96fb0d932e824938908597c79e6d7
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Thu Apr 1 22:19:58 2021 -0500
+
+    added links to personal webpages and linkedIn profiles to about page
+
+commit c5c8f245078ec7205b5d9cdf3c7f3687991d9669
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Thu Apr 1 22:18:37 2021 -0500
+
+    making changes
+
+commit 3f7be9c2c10f18e20e869517f887e7e251f3f862
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Thu Apr 1 15:28:24 2021 -0500
+
+    resolved used table's 1872 issue
+
+commit bff27eda84aab3820b684d098ed1f20b316a8aed
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Thu Apr 1 15:27:32 2021 -0500
+
+    fixed link to agency on launch.js
+
+commit 3133c09fd42d90226d69ca8112b0d43d60ac637e
+Merge: 7946b66 e8d1e29
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Thu Apr 1 13:34:22 2021 -0500
+
+    Merge branch 'master' into fc_dev
+    
+    # Conflicts:
+    #       Project1-master/backend/models.py
+
+commit 7946b665e1a3d09708f693fbc13ed66ea46d1e69
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Thu Apr 1 13:31:32 2021 -0500
+
+    test.py runs successfully
+
+commit e8d1e29931812d2bb800c6fe30330b3dcd434326
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Thu Apr 1 12:34:00 2021 -0500
+
+    Fixed the position of the footer
+
+commit f1d82907b8f80dd7b84761fcda3839e86f0140c7
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Wed Mar 31 21:57:07 2021 -0500
+
+    Attributes updated
+
+commit 010c1fabfc9580d507c89fb77308a425d2cdb76c
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 31 21:27:55 2021 -0500
+
+    fixed routing inside .gitlab-ci.yml
+
+commit d85e7f7030753ce7fcefb1ddb1151e9b72e0f4fe
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 31 21:24:35 2021 -0500
+
+    moved requirements.txt to root of directory for gitlab-ci
+
+commit 5a126bd1512271e683d6d7a7dcb931d10966083d
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 31 21:21:13 2021 -0500
+
+    moved .gitlab-ci.yml to root of repository
+
+commit ebee77dc6c30f9e145b3049e396745f0b2e2c836
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 31 21:18:05 2021 -0500
+
+    added unit tests, added .gitlab-ci.yml
+
+commit 9aadfa86d28337352b9e84b71d8c9a73105c04ff
+Merge: b136a41 d11fb24
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 31 19:33:35 2021 -0500
+
+    Merge branch 'master' into fc_dev
+
+commit b136a4176a5a51d140fb5e0a5737a7197693d110
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 31 19:32:48 2021 -0500
+
+    working on test.py
+
+commit d11fb24e236a68c0f2b5108771d561ad5eab142e
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Wed Mar 31 19:22:36 2021 -0500
+
+    connection table updated
+
+commit a8011c188709b4aa3a6092981f6de8bf78b21fa1
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Wed Mar 31 18:13:31 2021 -0500
+
+    connection tb update effort startup
+
+commit 09596c48cc2a57e47267f92acecfeb7e20e5f3d5
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Tue Mar 30 20:37:24 2021 -0500
+
+    added test.py to backend for unittests, only a template so far
+
+commit d6bbaa92269d46c18b17c8d3c30a58536fa08a2a
+Merge: 3da538d e465704
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Tue Mar 30 20:31:23 2021 -0500
+
+    Merge branch 'master' of https://gitlab.com/ShinyGlaceon/cs331e-idb
+
+commit 3da538d883e8c20060c624b10ad5c85a49617df2
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Tue Mar 30 20:31:13 2021 -0500
+
+    clean uneeded files
+
+commit e465704f72754bc58060d41d0641a5c6ff0bc4c0
+Merge: aa1d011 b369583
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Wed Mar 31 01:29:27 2021 +0000
+
+    Merge branch 'cc_dev' into 'master'
+    
+    Cc dev
+    
+    See merge request ShinyGlaceon/cs331e-idb!19
+
+commit b3695831fee082a34af5157405363c01c6a55f45
+Merge: 1319248 aa1d011
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Wed Mar 31 01:26:11 2021 +0000
+
+    Merge branch 'master' into 'cc_dev'
+    
+    # Conflicts:
+    #   Project1-master/.gitignore
+    #   Project1-master/backend/models.py
+    #   Project1-master/main.py
+
+commit 13192482522c57999e7dab2a1203a2da94baf1e3
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Tue Mar 30 20:24:02 2021 -0500
+
+    Create details pages APIs, make all pages load data through APIs
+
+commit aa1d011c1d410bbdeede4a38d3bfc4029c17aa74
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Tue Mar 30 19:11:46 2021 -0500
+
+    implemented function in create_db.py that format launch_cost for each launcher from a string to a float that represents millions of dollars
+
+commit 23d2aee35bc7e97fe46f03298ed211dde0d3d44b
+Author: Francisco Cid <franciscocid@RAULs-MBP-2.attlocal.net>
+Date:   Tue Mar 30 15:31:32 2021 -0500
+
+    deleted unnecessary things in main.py, added to requirements.txt
+
+commit 6a64e63a705ea54e3883221a4f0c3c321ad586c8
+Author: Francisco Cid <franciscocid@RAULs-MBP-2.attlocal.net>
+Date:   Tue Mar 30 15:30:34 2021 -0500
+
+    added __pycache__ to .gitignore
+
+commit 118d875aff3977a7ec9fb3458511ace74d87c46c
+Merge: 59e7066 1a224c5
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Tue Mar 30 10:52:28 2021 -0500
+
+    merge with master
+
+commit 59e706628b30df8e7e7a6f595cfbe38fab44cc9f
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Tue Mar 30 10:45:58 2021 -0500
+
+    build external apis, fetch and display data on pillar index pages
+
+commit 1a224c57b019d24442945b3ac567050e7b0fd9a8
+Author: Francisco Cid <franciscocid@RAULs-MBP-2.attlocal.net>
+Date:   Tue Mar 30 10:41:55 2021 -0500
+
+    no changes made
+
+commit 05fcbf75fd8ee52ff3c3dcf8b651dc7292735624
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Mar 26 16:28:26 2021 -0500
+
+    launch page json variables
+
+commit a02767fe3428fc3a1bb03406e4fbcb5ca92416a7
+Merge: 5844acd 28711bb
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Fri Mar 26 05:40:48 2021 +0000
+
+    Merge branch 'load_db' into 'master'
+    
+    merging db features
+    
+    See merge request ShinyGlaceon/cs331e-idb!17
+
+commit 28711bbc7ef95ca86033447434b72a9502bb7867
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Fri Mar 26 00:39:15 2021 -0500
+
+    db installed
+
+commit 2d06503848e3640642bb920ad4427e33c30883e8
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Thu Mar 25 17:13:56 2021 -0500
+
+    Debugged reference issues
+    Encountered DataError
+
+commit 1a148265cd2fe792687bc9701c4d833e4eb293de
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Thu Mar 25 16:52:22 2021 -0500
+
+    create_db.py installed
+    test url installed for main.py
+
+commit 16e201a38fef756043dc2c10f43ce0f0da2ea9f9
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Thu Mar 25 16:38:55 2021 -0500
+
+    create_db.py installed
+
+commit eed56288ee1cdbe4fc94b5ec878e0bc9a757fa9f
+Author: Jiuyuan <jameschen@utexas.edu>
+Date:   Thu Mar 25 15:54:35 2021 -0500
+
+    load_db foudation built. Model installed
+
+commit 5844acdbd0daf820536bd0a3cabc5c3f1b5417d8
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 24 15:41:06 2021 -0500
+
+    added .idea to .gitignore
+
+commit d3551292d0983000a3cf0564f969c389d13fe45c
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Mar 24 15:38:21 2021 -0500
+
+    finished load_json.py, JSON for all 3 pillar are being loaded properly
+
+commit 7c6cab32e4ef153cc0f49bda923a92b74c7b8a97
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Mon Mar 22 21:21:18 2021 -0500
+
+    wrote python script that makes calls to launch library API and stores data in three JSON files, works well for agencies, but needs some work for launchers and launches
+
+commit c515f517b82f6f4de0b48ba8d563c74b10ebe853
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Sat Feb 27 20:35:20 2021 -0600
+
+    'kiss
+
+commit 6fed5bf37d4b569e8e9f6d2b6643bd471772b4a0
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Sat Feb 27 20:31:20 2021 -0600
+
+    kiss again
+    fix Index.js
+    update log
+    do math
+
+commit b0785046520a237d10b571deb630baf5e982d004
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Sat Feb 27 20:13:30 2021 -0600
+
+    'finalization'
+
+commit e252e66971a65bc6931506189b5edc93d08436ba
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Sat Feb 27 20:08:59 2021 -0600
+
+    destroyed package.json, added ignore under cs331e-idb for safety measure, did math. **CHEF'S KISS MUA**
+
+commit 026b1fcfde204d900478de2053d95a4099780b81
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Sat Feb 27 20:00:21 2021 -0600
+
+    add log and do math
+
+commit 2f01e77296beef3fe9df389961935aea6c650fbb
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 19:52:39 2021 -0600
+
+    final touches *chef's kiss*
+
+commit 33027735bfc1d4abf4a01677c155865036e1324e
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 19:23:25 2021 -0600
+
+    fixed minor issues
+
+commit 17c7e697953b60470a571f07eb07bfa23e17d2de
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 18:58:35 2021 -0600
+
+    merged master into fc_dev
+
+commit 490b671d46e1cb0b3f4073964b41d7c2957a5835
+Merge: 895b9dd 3d614f7
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 18:55:28 2021 -0600
+
+    Merge branch 'master' into fc_dev
+
+commit 895b9dd3fcdd1d3f5169c9b1760f74e078bb42ee
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 18:54:59 2021 -0600
+
+    trying to merge master into fc_dev
+
+commit 3d614f7a65b531d090dc3853ed71711cc28ac116
+Merge: af2a293 b4990a8
+Author: Adnan Y Desai <adnandesai@utexas.edu>
+Date:   Sun Feb 28 00:50:03 2021 +0000
+
+    Merge branch 'ad-dev' into 'master'
+    
+    Ad dev to master
+    
+    See merge request ShinyGlaceon/cs331e-idb!16
+
+commit 5377e14b0034271e1c64a38276ea6b5e006b005e
+Merge: 22b3a9f af2a293
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 18:47:15 2021 -0600
+
+    Merge branch 'master' into fc_dev
+
+commit 22b3a9f3a34e15863cabc9ebdfaf18b7c98b988a
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 18:46:03 2021 -0600
+
+    corrected link addresses for launches and agency index and subpages
+
+commit af2a2930717b265c76d1b89389286753d223d46b
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 18:43:11 2021 -0600
+
+    change index to use react-router-dom Links
+
+commit c633bad825574438f6c74eaf0e2a4cd62b1dde7a
+Merge: cc64401 07f246f
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 18:37:56 2021 -0600
+
+    Merge branch 'cc_dev'
+
+commit 07f246f7135b4ee87124275215197084a487ca9f
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 18:37:40 2021 -0600
+
+    add favicon and document title
+
+commit cc64401a4b1cbeee471d3603a3dd303801cf126a
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Sat Feb 27 18:36:45 2021 -0600
+
+    removed unused photos
+
+commit 1b3a167046c137d4e022cee27a38576ff3b7fe64
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Sat Feb 27 18:34:27 2021 -0600
+
+    Removed unused photos
+
+commit b4990a802083e81c68f3962157771a0e5710da47
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Sat Feb 27 18:24:03 2021 -0600
+
+    Finalizing the spacecraft pages
+
+commit d543e068b40bf1e61de24eed80f6209286cf43a4
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 18:15:07 2021 -0600
+
+    fix footer, fix bootswatch import
+
+commit a56c5756e5c7b34da829cc075d9d33b0da9a874b
+Merge: 204fec2 899c665
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 17:37:15 2021 -0600
+
+    Merge branch 'master' into cc_dev
+
+commit 204fec2a413704c50ca03eaa581441996c3e591f
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 17:36:54 2021 -0600
+
+    reposition footer
+
+commit dce3e838ecc82c4727af3bec998898d1d5a440eb
+Merge: 337e1b2 899c665
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Sat Feb 27 17:28:40 2021 -0600
+
+    Merge branch 'master' into ad-dev
+    
+    # Conflicts:
+    #       Project1-master/frontend/src/App.jsx
+    #       Project1-master/frontend/src/components/Footer/Footer.css
+    #       Project1-master/frontend/src/components/Footer/Footer.js
+
+commit 337e1b219706626658c6e8f28deaf2a0028f27ce
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Sat Feb 27 17:25:05 2021 -0600
+
+    spacecraft pages almost finalized
+
+commit 0202b3f4f7a11edd298b70c3b5c6068d59fefe24
+Merge: c4ee61e 899c665
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 17:13:29 2021 -0600
+
+    Merge branch 'master' into fc_dev
+    
+    # Conflicts:
+    #       Project1-master/frontend/src/pages/About/About.js
+    #       Project1-master/frontend/src/pages/Launches/Launches.js
+
+commit c4ee61ea930a6a5f77ddc9062a72cd58e3a92617
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 17:06:05 2021 -0600
+
+    added icon links to launches table
+
+commit 899c6656040638703071ae4ab00471e6c5d8ac85
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 17:04:46 2021 -0600
+
+    fix footer position
+
+commit 2373f5f0c78dc4d37a6d95aca8a8a07058994858
+Merge: 268eda3 d60a1cc
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 17:00:08 2021 -0600
+
+    Merge branch 'cc_dev'
+
+commit d60a1cc84f862aee1838d19b1e497e5b78b21a8c
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Sat Feb 27 16:58:06 2021 -0600
+
+    populate launch pages
+
+commit fa8e82970868fa9769c1f894d1194f3b49cc6903
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 16:38:13 2021 -0600
+
+    added tools and data sources to about page
+
+commit 0214908c55fc07b10812bff68b11b6d3322adf0e
+Author: AdnanDesai <36175259+AdnanDesai@users.noreply.github.com>
+Date:   Sat Feb 27 16:26:37 2021 -0600
+
+    Developed Spacecraft Index Page
+
+commit 22521e90c515f9fa608cb4d8f982b61995e86314
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 16:05:54 2021 -0600
+
+    adding stuff to about page
+
+commit 268eda307ab419955d89eef5f17b57991c25177d
+Merge: 2518235 dea7218
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Sat Feb 27 21:58:45 2021 +0000
+
+    Merge branch 'MH-dev' into 'master'
+    
+    Mh dev to master
+    
+    See merge request ShinyGlaceon/cs331e-idb!15
+
+commit dea72188a787c401cde0dff9a62a038590b2b96d
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Sat Feb 27 15:55:11 2021 -0600
+
+    Agencies subpages
+
+commit 2f8fd8c1326389ca1ede3e5ac810b8cdc2f1039d
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 14:40:27 2021 -0600
+
+    added and populated table in agencies page
+
+commit 6781d7b338027cd23cfcf2b14aed66c7a2ee4a30
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Sat Feb 27 19:27:38 2021 +0000
+
+    Hardcoded Table in Agencies.js
+
+commit 2518235b1744b5c770babdf87cbd89788ea92517
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Sat Feb 27 12:58:48 2021 -0600
+
+    added directories and page files for agencies and spacecrafts
+
+commit f87f598f47030efeb0c6753dafe3c4ae25da6fef
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 21:12:30 2021 -0600
+
+    change main.py
+
+commit 72b5143b2ad36739023c3c8ad4f3d27f96608d03
+Merge: a557cd1 97f1438
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 20:49:16 2021 -0600
+
+    Merge branch 'master' of https://gitlab.com/ShinyGlaceon/cs331e-idb
+
+commit a557cd12de1779eb7c667959e0ebfbdffefa127b
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 20:48:29 2021 -0600
+
+    change .gitifnore
+
+commit 97f1438318b2f11dd7a2e80e4214cc11b1efcf22
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Feb 26 20:41:16 2021 -0600
+
+    added to .gitignore
+
+commit 589c78d37b44519491ea6b90a9c54c32906c4e31
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Fri Feb 26 20:31:46 2021 -0600
+
+    remove package-lock
+
+commit 930892771d330136e2b17af6ddc462641d10b754
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 20:20:59 2021 -0600
+
+    delete node_modules in backend
+
+commit 8896b88df06a3876b8d066f79dcfa51398a1f9d9
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 20:20:03 2021 -0600
+
+    move main.py
+
+commit c8cbceab06933ee21f7097c9a736ce0ac35728a4
+Merge: 0d1dd0f cf4a29f
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 20:10:48 2021 -0600
+
+    add launches
+
+commit 0d1dd0ffa8aaacb8f9a107bd281d962617a9a4a3
+Merge: ba6a6dc 4e58269
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 20:02:22 2021 -0600
+
+    Merge branch 'cc_dev'
+
+commit 4e58269963b377c34e9e6c0e548441b5a6a8875f
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 19:58:59 2021 -0600
+
+    update launch pages
+
+commit be3fc764abe73ab3b3d76d35d1488c36d7d3b0f2
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 19:46:51 2021 -0600
+
+    Refactor launch pages
+
+commit cf4a29fd308fbbef68eb836fa96f911b52c2e13a
+Merge: 1feb823 fb22b55
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Feb 26 19:00:12 2021 -0600
+
+    Merge branch 'master' into fc_dev
+
+commit 1feb823c2c9c27899cc5ca7c21e9372a688931ca
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Feb 26 18:50:10 2021 -0600
+
+    made splash page responsive
+
+commit ba6a6dc66a853183e915528952e86cbf55c46257
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 15:19:45 2021 -0600
+
+    fix 404 conflict
+
+commit c7e419447face22a4ffbd686019ba57a9fff366c
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 15:07:13 2021 -0600
+
+    fix merge conflict
+
+commit 9d97ec1297bb88f55efc8977d28d44504cd84472
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Feb 26 15:05:33 2021 -0600
+
+    improved content alignmnet for cards in about page
+
+commit fb22b55990e9f0fe694eb7a3166be6d8b72c49ec
+Merge: f78f10c 5a8d9a8
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 26 20:31:10 2021 +0000
+
+    Merge branch 'jc-dev' into 'master'
+    
+    Installing launch event category/detail page
+    
+    See merge request ShinyGlaceon/cs331e-idb!10
+
+commit 33cdf755a7b289709c5000b20b5053f93f28b07e
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Fri Feb 26 13:34:42 2021 -0600
+
+    About page: added the rest of the team member bios, and made it to where all cards have equal height regardless of amount of content
+
+commit 5a8d9a85567070866f8541fa09a2e4018e202495
+Merge: 6e09d20 922bee6
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Fri Feb 26 05:29:34 2021 -0600
+
+    Merge master in jc-dev
+
+commit 6e09d2021d026cccae5b54d09d74bb4c06cb393c
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Fri Feb 26 05:25:55 2021 -0600
+
+    finalization
+
+commit 5620200b4522d77b119b233e1310164d592bd597
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Fri Feb 26 05:17:59 2021 -0600
+
+    bootstrap installed
+
+commit f78f10c41397bce91ca20e1d6a8faff2b3f43636
+Author: Maryam Hussaini <maryam.h@utexas.edu>
+Date:   Fri Feb 26 05:46:53 2021 +0000
+
+    Hardcoded stuff in Agencies.js. Missing style
+
+commit edcb7b9b14bbc79fb2d856e8d3374d09bb995f98
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Thu Feb 25 17:24:54 2021 -0600
+
+    added team member responsibilites and most bios in about page
+
+commit 9e2b59a26fe53ca695c1bad46fe3a469426a9a62
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Thu Feb 25 15:14:24 2021 -0600
+
+    added profile pictures to about page
+
+commit 6432137c73816b9b19a9ecdfd8bf291a43522d1b
+Merge: 922bee6 4b955bd
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Thu Feb 25 20:48:42 2021 +0000
+
+    Merge branch 'cc_dev' into 'master'
+    
+    add bootswatch theme
+    
+    See merge request ShinyGlaceon/cs331e-idb!8
+
+commit 4b955bd56d89e3bf33d31367f8fc3fddd8a82e2b
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Thu Feb 25 14:47:59 2021 -0600
+
+    add bootswatch theme
+
+commit 8e70cd1aa18184998dad4bd734fb23f63ba60f28
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Thu Feb 25 13:25:02 2021 -0600
+
+    applied darkly theme
+
+commit 922bee61306dad2579ef00f057f5ada049c29708
+Merge: 9c91d1f db3cae6
+Author: francisco-cid <francisco.3400@yahoo.com>
+Date:   Thu Feb 25 19:21:11 2021 +0000
+
+    Merge branch 'fc_dev2' into 'master'
+    
+    Fc dev2 into master
+    
+    See merge request ShinyGlaceon/cs331e-idb!6
+
+commit db3cae6456f1e7b3232e17ed11b750d2861dd0f1
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Thu Feb 25 12:24:10 2021 -0600
+
+    built basic structure for about page
+
+commit 468c130a3aa32c50d34c064d6181693ebd684213
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Thu Feb 25 05:49:25 2021 -0600
+
+    launch milestone
+
+commit 3a75dfaab52c69d11e114165cf590f597566aeac
+Merge: ba71c48 9c91d1f
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Feb 24 19:00:19 2021 -0600
+
+    Merge branch 'master' into fc_dev
+
+commit 9c91d1f873ed099aa28250ff9f71e76dacfb7215
+Merge: 6fda91e 5b86d82
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Thu Feb 25 00:41:33 2021 +0000
+
+    Merge branch 'cc_dev' into 'master'
+    
+    Style 404 Page
+    
+    See merge request ShinyGlaceon/cs331e-idb!4
+
+commit 5b86d82997c3727744b93fe7dcc86ceaeab66569
+Merge: 11d7093 6fda91e
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Thu Feb 25 00:41:13 2021 +0000
+
+    Merge branch 'master' into 'cc_dev'
+    
+    # Conflicts:
+    #   Project1-master/.gitignore
+
+commit 11d70932360f4e586d145369e09d896eba72a9b1
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 18:40:27 2021 -0600
+
+    Style 404 page
+
+commit f8e405411304a878efe70453e835419a62a077dc
+Merge: 7536c49 b7f9c29
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 18:39:14 2021 -0600
+
+    Merge branch 'cc_dev' of https://gitlab.com/ShinyGlaceon/cs331e-idb into cc_dev
+
+commit 7536c49d31f108772d5da89ec0ea365275388814
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 18:37:18 2021 -0600
+
+    Style 4040 page
+
+commit 6fda91eb625364dfd8cfd5826025b8bfdfbcd5b6
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Feb 24 18:35:22 2021 -0600
+
+    added webstorm configuration files to .gitignore
+
+commit 8893f9c4bfb8775d037c13a077afbd8167a9e0cf
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 18:34:36 2021 -0600
+
+    format 404 page
+
+commit 23e0fc1465c325bd9d80e84cafda3234c014e57c
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Feb 24 18:29:10 2021 -0600
+
+    deleted .idea for real this time
+
+commit 523adfb523397c5a7fb9d22e9397ee308951f956
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Feb 24 18:26:01 2021 -0600
+
+    deleted .idea and added it to .gitignore
+
+commit ba71c4839b97a5a842d14fb8862a2e288e1512ce
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Feb 24 18:13:32 2021 -0600
+
+    merged master into fc_dev
+
+commit 61be0ff22ab9dd4d3a3a7a094caa3e5db4c966ea
+Merge: c4695b3 178e87f
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Feb 24 18:12:25 2021 -0600
+
+    Merge branch 'master' into fc_dev
+
+commit 178e87f6a6f62714658c59a634d93f9615f1abd9
+Merge: 0584575 b7f9c29
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 23:45:27 2021 +0000
+
+    Merge branch 'cc_dev' into 'master'
+    
+    Add Navbar Links
+    
+    See merge request ShinyGlaceon/cs331e-idb!3
+
+commit b7f9c294c700a5399b23013be61521b8c79031d5
+Merge: c3db871 0584575
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 23:45:11 2021 +0000
+
+    Merge branch 'master' into 'cc_dev'
+    
+    # Conflicts:
+    #   Project1-master/frontend/src/components/Navbar.js
+
+commit c3db871072fbbbe7581448c65343c9efa3f1ff2c
+Merge: d8eb66e 65d082b
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 17:42:53 2021 -0600
+
+    Merge branch 'cc_dev' of https://gitlab.com/ShinyGlaceon/cs331e-idb into cc_dev
+
+commit d8eb66ec38185a9e0c720eb9a409c07c821aaa6d
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 17:40:24 2021 -0600
+
+    Add Navbar Links
+
+commit 0584575c937db2d287f18fd2a5282370957ccd60
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Wed Feb 24 17:35:24 2021 -0600
+
+    fixed footer
+
+commit 4ee76554ecf5fdc1c84b3fce7f34f220b4ff77c2
+Merge: f1eed75 65d082b
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Wed Feb 24 23:07:26 2021 +0000
+
+    Merge branch 'cc_dev' into 'master'
+    
+    Cc dev
+    
+    See merge request ShinyGlaceon/cs331e-idb!2
+
+commit 65d082b2d9305eee7c2cb0ac25eea9dfe20f98db
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Wed Feb 24 17:06:02 2021 -0600
+
+    fixed footer import for the splash page
+
+commit c4695b3ded5626ade15398e4262d98f5d69817e7
+Author: Francisco Cid <francisco.3400@yahoo.com>
+Date:   Wed Feb 24 17:02:44 2021 -0600
+
+    made new branch
+
+commit a34b8f1f562be140b7664eae28799b46c3492012
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Wed Feb 24 17:01:35 2021 -0600
+
+    made splash page
+
+commit f1eed756dbe75ef602461055d010abd959773d2c
+Merge: 33aa363 0c75f0a
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 22:52:59 2021 +0000
+
+    Merge branch 'cc_dev' into 'master'
+    
+    Navbar and Footer
+    
+    See merge request ShinyGlaceon/cs331e-idb!1
+
+commit 0c75f0a141b1f2eef9ac826228c142a3edc5f4e9
+Merge: d9e8b2d 33aa363
+Author: Caleb W Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 22:52:37 2021 +0000
+
+    Merge branch 'master' into 'cc_dev'
+    
+    # Conflicts:
+    #   Project1-master/.gitignore
+
+commit d9e8b2d77e5c6fc5b987f52eaab42f28e938a569
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Wed Feb 24 16:50:49 2021 -0600
+
+    Navbar and Footer
+
+commit e012e223346d335a13de739a50918a28b07c83db
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Wed Feb 24 12:51:43 2021 -0600
+
+    category skeleton installed
+
+commit f3b4424e4030513dc250e9802f5fb4602c0885ca
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Mon Feb 22 19:12:16 2021 -0600
+
+    react-bootstrap installed
+
+commit 7ec5658102173ee304b83f06253eba4ebdd4a3fb
+Author: caleb Campbell <c.campbell@utexas.edu>
+Date:   Fri Feb 12 14:16:44 2021 -0600
+
+    Structure React Pages and Routing
+
+commit 33aa36346671f4ed2e0e2e3f50960e364dc5b503
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Fri Feb 12 13:37:00 2021 -0600
+
+    moved image to src
+
+commit 20fb3cd1b1c68409e244075e2472eb89255e2366
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Fri Feb 12 13:33:53 2021 -0600
+
+    moved css into src
+
+commit 089e48fa404703061d6bcd4d53040edbc686be06
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Fri Feb 12 13:31:47 2021 -0600
+
+    moved jsx and js to src folder
+
+commit 11109811989f8cca3ad7d3182134a4664530826e
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Fri Feb 12 04:34:40 2021 -0600
+
+    gcp reretry
+
+commit a9c2f0bcbddcb58fda2f92fc934ad3ffa86ff9fa
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Fri Feb 12 03:55:01 2021 -0600
+
+    deployment test
+
+commit 1e085ac63cd9f991f3b3ad84c80709dd966eca7b
+Merge: 6dbb056 38a1057
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Thu Feb 11 11:34:42 2021 -0600
+
+    Merge branch 'master' of gitlab.com:ShinyGlaceon/cs331e-idb into master
+
+commit 6dbb0566b33e519b0958f9d7b867069147681c44
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Thu Feb 11 11:34:22 2021 -0600
+
+    organized frontend src folder, added static images
+
+commit 38a10570de2dd370fa0cb56a97d8fd37c55a0e4a
+Author: francisco-cid <francisco.3400@yahoo.com>
+Date:   Tue Feb 9 18:50:17 2021 +0000
+
+    Update .gitignore
+
+commit 08ffb6fd07b0454941f98a2a9f36c1ead9acdd20
+Author: francisco-cid <francisco.3400@yahoo.com>
+Date:   Tue Feb 9 18:46:31 2021 +0000
+
+    Update .gitignore
+
+commit 347e8a7665a78bc1346c60a43d2cbb517fff9649
+Author: francisco-cid <francisco.3400@yahoo.com>
+Date:   Tue Feb 9 18:46:07 2021 +0000
+
+    Delete .DS_Store
+
+commit c9756783f70c8fe99dfe4348025186f987bab985
+Author: francisco-cid <francisco.3400@yahoo.com>
+Date:   Tue Feb 9 18:43:52 2021 +0000
+
+    Update .gitignore
+
+commit 2f3440f798fb46570ba50465ecbaf07e8c03e2bc
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Tue Feb 9 18:37:14 2021 +0000
+
+    Delete .gitignore
+
+commit 98a1e7f93f594fafeadb493c5c816a516c3dd7b6
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Tue Feb 9 12:36:26 2021 -0600
+
+    initalized gitignore
+
+commit 6559f16feea337d13c8386c089bbe7b721f76c0b
+Author: Jiuyuan Chen <jameschen@utexas.edu>
+Date:   Tue Feb 9 12:31:08 2021 -0600
+
+    startup installation
+
+commit 2f20e271ed999b16a247e8c5364f7521fd8b38b2
+Author: Samuel Pang <samuelmpang@gmail.com>
+Date:   Fri Jan 29 21:05:44 2021 +0000
+
+    Initial commit

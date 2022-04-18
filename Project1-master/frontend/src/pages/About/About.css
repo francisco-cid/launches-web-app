@@ -1,0 +1,24 @@
+.top-buffer {
+    margin-top:20px;
+}
+
+.icon-buffer {
+    margin-top: 10px;
+}
+.bottom-buffer {
+ margin-bottom: 20px;
+}
+
+.flexible {
+    flex-grow: 1;
+}
+
+.flex-card{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}

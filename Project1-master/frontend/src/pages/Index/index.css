@@ -1,0 +1,67 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a.splash:hover {
+    text-decoration: none;
+}
+
+div.positionRel {
+    position: relative;
+}
+
+div.splashTitle {
+    background-image: url("../../images/pexels-pixabay-2159.jpg");
+}
+
+div.splashLaunch {
+    background-image: url("../../images/moon-surface.jpg");
+}
+
+div.splashSpacecraft {
+    background-image: url("../../images/spacecraft.jpg");
+}
+
+div.splashAgencies {
+    background-image: url("../../images/pexels-pixabay-41162.jpg");
+}
+
+div.backgroundCover {
+    background-size: cover;
+}
+
+h1.left {
+    text-align: left;
+}
+
+h1.right {
+    text-align: right;
+}
+
+h1.splashTitle {
+    text-align: center;
+    font-size: 12vw;
+    color: aliceblue;
+}
+
+h1.splashHeading {
+    color: azure;
+    font-size: 10vw;
+}
+
+p {
+    color: azure;
+}
+
+p.left {
+    text-align: left;
+}
+
+p.right {
+    text-align: right;
+}
+

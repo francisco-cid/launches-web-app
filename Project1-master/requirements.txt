@@ -1,0 +1,13 @@
+click
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+html-testRunner
+itsdangerous
+Jinja2
+MarkupSafe
+psycopg2-binary
+six
+SQLAlchemy
+Werkzeug
+pep8
